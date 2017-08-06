@@ -23,16 +23,3 @@ https://github.com/ballerinalang/ballerina/issues/3022
 https://github.com/ballerinalang/ballerina/issues/3025
 https://github.com/ballerinalang/ballerina/issues/3024
 https://github.com/ballerinalang/plugin-intellij/issues/518
-
-
-Like About Ballerina
-
-
-Thought were okay with Ballerina
-
-
-Hated about Ballerina
-
-1. Always need to remove imports in case if we don't use any of them
-
-
